@@ -15,8 +15,8 @@
       institution: National Taiwan University
       year: 2021-2023
       description:
-        - Advisor: Prof. <a href="https://www.csie.ntu.edu.tw/~cwlin/">Chung-Wei Lin</a>
-        - Thesis: Cooperative and Secure Multi-Agent Positioning on Real Coordiates Based on Satisfiability Modulo Theories
+        - "Advisor: Prof. <a href="https://www.csie.ntu.edu.tw/~cwlin">Chung-Wei Lin</a>"
+        - "Thesis: Cooperative and Secure Multi-Agent Positioning on Real Coordiates Based on Satisfiability Modulo Theories"
     - title: Bachelor of Science (B.S.), Computer Science and Information Engineering
       institution: National Taiwan University
       year: 2017-2021
@@ -41,7 +41,7 @@
     - year: 2023
       items: 
         - Member of Phi-Tau-Phi Scholastic Honor Society
-    - year: 2018,2021
+    - year: 2018&2021
       items: 
         - Dean's List Awards
 
