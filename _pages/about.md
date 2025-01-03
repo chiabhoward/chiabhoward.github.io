@@ -24,8 +24,8 @@ Ph.D. Student in Software Engineering
 [School of Computer Science](https://www.cs.cmu.edu/)  
 [Carnegie Mellon University](https://www.cmu.edu/)  
 
-bchia [at] andrew [dot] cmu [dot] edu
-[CV](/assets/pdf/cv.pdf) / [Linkedin](https://www.linkedin.com/in/benhauchia)
+Email: bchia [at] andrew [dot] cmu [dot] edu
+Office: [TCS Hall 413](https://goo.gl/maps/qYhacws7xvsfE2ff7)
 
 ---
 
