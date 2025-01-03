@@ -1,11 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
+layout: none
+permalink: /assets/pdf/cv.pdf
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: cv.pdf
-description: Last modified in November 2023.
-toc:
-  sidebar: left
 ---
