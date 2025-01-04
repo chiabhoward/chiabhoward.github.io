@@ -6,9 +6,10 @@ description:
 nav: true
 nav_order: 6
 display_categories: [National Taiwan University]
+horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/teaching.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
