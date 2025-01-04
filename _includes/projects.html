@@ -3,8 +3,9 @@
 <div class="grid-item">
   {% if project.redirect -%}
   <a href="{{ project.redirect }}">
-    <!--{%- else -%} -->
+    {%- else -%}
     <!-- <a href="{{ project.url | relative_url }}"> -->
+    <a>
       {%- endif %}
       <div class="card hoverable">
         {%- if project.img %}
