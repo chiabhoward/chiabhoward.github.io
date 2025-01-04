@@ -171,7 +171,6 @@ collections:
     permalink: /projects/:path/
   teaching:
     output: false
-    permalink: /teaching/:path/
 
 announcements:
   enabled: true
