@@ -24,7 +24,7 @@ Ph.D. Student in Software Engineering
 [School of Computer Science](https://www.cs.cmu.edu/)  
 [Carnegie Mellon University](https://www.cmu.edu/)  
 
-Email: bchia [at] andrew [dot] cmu [dot] edu <br>
+Email: bhchia [at] cmu [dot] edu <br>
 Office: [TCS Hall 413](https://goo.gl/maps/qYhacws7xvsfE2ff7)
 
 ---
