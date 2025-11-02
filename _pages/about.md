@@ -29,6 +29,6 @@ Office: [TCS Hall 413](https://goo.gl/maps/qYhacws7xvsfE2ff7)
 
 ---
 
-I am a first-year Ph.D. student at Carnegie Mellon University, co-advised by [Dr. Chris Timperley](https://chris.timperley.info/) and [Dr. Eunsuk Kang](https://eskang.github.io/). My research interests include cyber-physical systems, system design methodology, and formal verification.
+I am a second-year Ph.D. student at Carnegie Mellon University, co-advised by [Dr. Chris Timperley](https://chris.timperley.info/) and [Dr. Eunsuk Kang](https://eskang.github.io/). My research interests include cyber-physical systems, system design methodology, and formal verification.
 
 Before joining CMU, I received my Bachelor's and Master's degree in Computer Science and Information Engineering at [National Taiwan University](https://www.ntu.edu.tw/), where I worked with [Dr. Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/) at the Cyber-Physical Systems Lab. Here is my [Master's Thesis](/assets/pdf/thesis.pdf).
